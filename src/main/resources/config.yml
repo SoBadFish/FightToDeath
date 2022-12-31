@@ -1,0 +1,21 @@
+title: "&f[&a掘一死战&f]"
+
+scoreboard-title: "&a掘一死战"
+
+# 是否保存玩家背包
+save-playerInventory:  true
+
+# 递增经验
+# 每下一级的经验为 up-exp * 等级
+up-exp: 500
+
+
+game-logo: "author: sobadfish "
+
+join-menu:
+  cw:
+    buttonImg:
+      type: "path"
+      path: "textures/ui/icon_recipe_item"
+    rooms:
+      - 测试房间
